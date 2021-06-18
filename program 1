@@ -1,4 +1,4 @@
-//
+//call by refrence example
 void increment(int *var) 
 {
   /* Although we are performing the increment on variable * var, 
